@@ -1,2 +1,3 @@
 # Proj_dtmparallel
-Rotation Project with Li Ma
+
+integration in three dimension
